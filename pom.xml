@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>name.ruhkopf</groupId>
 	<artifactId>newrelic-utils</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>New Relic Java utilities</name>
 	<packaging>jar</packaging>
 
@@ -23,7 +23,8 @@
 		<url>https://github.com/ruhkopf/newrelic-utils</url>
 		<connection>scm:git:git://github.com/ruhkopf/newrelic-utils.git</connection>
 		<developerConnection>scm:git:git@github.com:ruhkopf/newrelic-utils.git</developerConnection>
-	</scm>
+	  <tag>v0.0.1</tag>
+  </scm>
 
 	<developers>
 		<developer>
